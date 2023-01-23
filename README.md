@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AnetteStu
+- 👋 Hi, my name is Anette Dahlle Stustad
 - 👀 I’m interested in Front-End development, IT and Digital art
-- 🌱 I’m currently learning Front-End and how to drive a car
-- 💞️ I’m looking to collaborate on --
+- 🌱 I’m currently learning React, Next.js and how to deploy WordPress
 - 📫 How to reach me;
 Might be best to hit me up with an email: anettestu@gmail.com or add me on discord Stusi#8623
 
