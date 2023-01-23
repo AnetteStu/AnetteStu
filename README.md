@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Anette Dahlle Stustad
+- 👋 Hi, my name is Anette Dahle Stustad
 - 👀 I’m interested in Front-End development, IT and Digital art
 - 🌱 I’m currently learning React, Next.js and how to deploy WordPress
 - 📫 How to reach me;
