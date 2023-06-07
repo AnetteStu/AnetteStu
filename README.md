@@ -4,3 +4,5 @@ I'm an inspiring artist as well as front-end developer. I have a degree in ICT a
 
 ### 📫 Get in touch
 Email me: anettestu@gmail.com or add me on discord Stusi#8623
+
+[Portfolio Website](https://kads.netlify.app/)
