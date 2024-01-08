@@ -12,5 +12,5 @@ I'm an inspiring artist as well as front-end developer. I have a degree in ICT a
 - [ ] Side Projects
 
 ## 📫 Get in touch
-[Email me:](to:anette.dahle@hotmail.com)
+Email me: anette.dahle@hotmail.com
 ### [Portfolio Website](https://kads.netlify.app/)
