@@ -1,5 +1,6 @@
 # Anette Dahle :wave:
 I'm an inspiring artist as well as front-end developer. I have a degree in ICT and love to work with computers. 
+### [Portfolio](https://kads.netlify.app/)
 
 ### Languages and Libraries I work with 
 ![image](https://camo.githubusercontent.com/bfe6a48836e87b13a16f1f56f88fee428475c2ac29247992ec9b8bcc7154f881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) 
@@ -18,6 +19,4 @@ I'm an inspiring artist as well as front-end developer. I have a degree in ICT a
 - [ ] React Certificate (w3Schools)
 - [ ] Side Projects
 
-## 📫 Get in touch
-Email me: anette.dahle@hotmail.com
-### [Portfolio Website](https://kads.netlify.app/)
+[📫 Get in touch](mailto:anette.dahle@hotmail.com)
